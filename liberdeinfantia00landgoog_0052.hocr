@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./liberdeinfantia00landgoog/liberdeinfantia00landgoog_0052.png"; bbox 0 0 5242 6280; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1968 5351 3756 5400">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1968 5351 3756 5400">
+     <span class='ocr_line' id='line_1_1' title="bbox 1968 5351 3756 5400; baseline 0.002 -9"><span class='ocrx_word' id='word_1_1' title='bbox 1968 5351 2286 5395; x_wconf 62' lang='lat' dir='ltr'>affusam(</span> <span class='ocrx_word' id='word_1_2' title='bbox 2316 5351 2635 5397; x_wconf 62' lang='lat' dir='ltr'>metuont</span> <span class='ocrx_word' id='word_1_3' title='bbox 2680 5355 2841 5396; x_wconf 73' lang='lat' dir='ltr'>mle</span> <span class='ocrx_word' id='word_1_4' title='bbox 2879 5354 3225 5399; x_wconf 71' lang='lat' dir='ltr'>AOADBmcns</span> <span class='ocrx_word' id='word_1_5' title='bbox 3263 5354 3756 5400; x_wconf 59' lang='lat' dir='ltr'>nuxowsxums.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
